@@ -1,5 +1,5 @@
 # ptmbr-accompmatz
-Companion repository for my [patmatch-binder]((https://github.com/fomightez/patmatch-binder)) repository. This contains the accompanying material and guides that are aside from the core PatMatch software.
+Companion repository for my [patmatch-binder](https://github.com/fomightez/patmatch-binder) repository. This contains the accompanying material and guides that are aside from the core PatMatch software.
 
 The notebooks here get copied into active sessions launched from the 'patmatch-binder' repository [here](https://github.com/fomightez/patmatch-binder). To learn more about PatMatch, see [here](https://github.com/fomightez/patmatch-binder).
 
