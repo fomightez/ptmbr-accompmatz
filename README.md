@@ -10,3 +10,6 @@ To use these notebooks actively, click the `launch binder` badge below:
 ## Technical Details
 
 This was done so that development of the accompanying material for the patmatch-binder repo could continue without need for rebuilding the associated images at MyBinder.org or Cyverse.
+
+
+I borrrowed the 'warning' highlight/introductory text about notebooks at the top of the first two included notebooks from Tim Sherratt's notebook [here](https://github.com/GLAM-Workbench/te-papa-api/blob/master/Exploring-the-Te-Papa-collection-API.ipynb).
